@@ -1,324 +1,324 @@
-﻿My cat is black,1
-My cat is blue,1
-Apple is a fruit,1
-The car is red,1
-It is an ugly car,0
-This cat is clever,0
-I love vegetables,0
-It was raining in Bandung,1
-I went to Japan last week,1
-London is the best city,0
-Every tree has green leaves,1
-I have a brown wallet,1
-This phone is better than that one,0
-They love sushi,0
-I am 21 years old,1
-I have a tv,1
-He is very smart,0
-She is very beautiful,0
-We drove for 2 hours,1
-We stayed at a hotel,1
-We stayed at this hotel,1
-The hotel was nice,0
-The hotel was dirty,0
-You are awesome,0
-It is better than before,0
-It is worse than before,0
-The car is the worst thing,0
-This tree is tall,0
-The bird is blue,1
-The tragedy costed many lives,0
-The tragedy costed 30 lives,1
-The tragedy happened yesterday,1
-Jokowi is the president of Indonesia,1
-Jokowi is the president of United States,1
-Her hair is black,1
-Her hair is blue,1
-She has a clean hair,0
-The man was murdered near Tokyo,1
-It was an awful event,0
-We survived the accident,1
-My monitor screen is black,1
-I wore black clothes,1
-I wore pants,1
-I live in Bandung,1
-Bandung is a city in Indonesia,1
-Jakarta is a city in Japan,1
-Jakarta is a heavily polluted city,0
-I have a lot of friends,0
-A fact is something which can be verified by evidence,1
-The river which flows through London is called Thames,1
-Summer evenings are nicer than winter evenings,0
-I think I did a good run,0
-The earth is round,1
-The earth is flat,1
-Summer follows spring,1
-The 2010 world cup took place in South Africa,1
-I think that rock music is awful,0
-The legal age for drinking should be lowered to 16,0
-Barack Obama was the first elected black president,1
-Barack Obama was a president,1
-Today seems hotter than yesterday,0
-I was sick yesterday,1
-You were sick last week,1
-I think I am sick,0
-This is the best car ever,0
-I think you are wrong,0
-That cat is very cute,0
-The cat is 3 years old,1
-This cat is black,1
-The dog is very smart,0
-The brown dog is smart,0
-The brown dog is 4 years old,1
-The blue car is really fast,0
-I clicked the blue button,1
-The flower was purple,1
-This white flower is really beautiful,0
-This flower is beautiful,0
-I planted this flower,1
-I gave it to you last year,1
-You give me flower everyday,1
-The festival was amazing,0
-We went to the festival last Thursday,1
-We went shopping last Friday,1
-The gray shirt is nice,0
-I did better than you,0
-Michelle is Obama’s wife,1
-Michelle wore a pink skirt,1
-Barack Obama and his family went to a festival yesterday,1
-We better stay away from the tiger,0
-The tiger is asleep,1
-The lion went on a hunt,1
-The lion was clever and has a strong body,0
-I would rather starve myself to death,0
-My phone was ringing when I was away,1
-My mother was cooking, when I watched TV,1
-My mother is the most wonderful human being,0
-This shirt is good for summer,0
-This is a good shirt,0
-I love this red shirt I am wearing right now,0
-The red shirt costs $500,1
-I bought a pencil,1
-I bought a pencil and an eraser,1
-This is an effective eraser,0
-It’s better not to smoke,0
-Smoking can harm your health,1
-I can’t speak japanese,1
-Japanese is easy to be learned,1
-I’m sitting at D5,1
-I missed my flight,1
-It was a fantastic journey,0
-She is good at cooking,0
-They are terrible at cooking,0
-He cooked us some food,1
-I bought that mouse last month,1
-It was the happiest land on earth,0
-I did my best,0
-They gave me souvenirs,1
-He is a funny person,0
-Bean is the funniest character ever,0
-I slept at 1,1
-I don’t have a bed,1
-The cartoon was great,0
-Your car is really dirty,0
-I love my cats very much,0
-It is a very nice day,0
-It is a bad day to exercise,0
-It is 5 o’clock now,1
-I do not wear glasses,1
-He wears glasses,1
-We wear glasses,1
-She wears glasses,1
-She did that,1
-He did something good,0
-He did not buy the cake,1
-It was her birthday,1
-It was a great party,0
-I am blind,1
-You are so stupid,0
-He is in Japan right now,1
-We had a good time in Japan,0
-Indonesia is not a good country,0
-She had a boyfriend,1
-I have a laptop,1
-I think it is a good film,0
-The film was not that impressive,0
-I brought my own book,1
-It is raining in Nara,1
-Stealing is bad,0
-Killing animal should be prohibited,0
-My house is big,0
-The apartment is cozy,0
-I live in an apartment,1
-The color of my house is white,1
-Stephanie is a smart person,0
-We were sleeping when the explosion happened,1
-We did our best,0
-They should not kill animals,0
-I only eat rice,1
-The food tastes terrible,0
-I have 10 dogs,1
-Elephant is an animal,1
-Elephant is a smart animal,0
-Hammer is a tool,1
-Hammer is the most effective tool,0
-Grape is a fruit,1
-We west to Disneyland last week,1
-We have too much money,0
-Money is not important,0
-It is important to be healthy,0
-She is a kind teacher,0
-He is such a handsome and cute boy,0
-She is the definition of beauty,0
-She is 24 years old,1
-She had a house and a family,1
-She died 3 years ago,1
-Her husband is a hard worker,0
-3 armed men launched 2 attacks in Iran’s parliament and the Mausoleum of Ayatollah Khomeini,1
-At least seven people have been killed and four others have been taken hostage in the Iranian parliament attack,1
-She was scared when police asked her to get out of her car,0
-The police was very nice to the lady,0
-We had a big and fun party at our house,0
-He called her twice last night,1
-They had a pretty good day,0
-She has a pretty face,0
-His dog is cute,0
-I live next to Jean,1
-Bruce shot people twice,1
-Emelie has an amazing career,0
-Russia just launched 2 nuclear bombs to America,1
-The World War 2 happened in 1942,1
-Sushi is the most delicious food in the world,0
-‘I Promise’ was released in 2017,1
-It is a good song,0
-It rained heavily last night,0
-Dogs have fur,1
-The Beatles were a band,1
-The last day of school is May 22nd,1
-Dog fur is pretty,0
-The Beatles sang great songs,0
-May 22nd is the best day of the year,0
-The sun is a star,1
-Cable is expensive,0
-Yogurt is a dairy product,1
-USA lost the vietnam war,1
-The US has the largest military in the world,1
-Christianity is the best religion,0
-Putin is a jerk,0
-Humans are warm-blooded mammals,1
-Cats are better than dogs,0
-Coffee tastes good,0
-There was a horrible outbreak of flu last year,0
-Babies generally start to talk between 18 and 24 months,1
-The average temperature in Wyoming is 35°F,1
-Italian is an easier language to learn than Spanish,0
-The capital of the Union of Soviet Socialist Republics (USSR) is Moscow,1
-Most people stopped smoking last year than two years ago,1
-Rosh Hashanah is festival of the year in Judaism,1
-Many nutritionist believe a low-carbohydrate, high-protein diet is the healthiest diet,1
-Smoke detectors can help save lives,1
-Thousands of people die each year from the interaction of their prescription drugs,1
-Cell phones should be banned in all public schools,0
-Children should not be allowed to watch more than five hours of television per week,0
-It’s a fact that soccer and rugby are a violent sports,0
-The Center for Disease Control (CDC) is a government agency that is responsible for the control and suppression of infectious diseases,1
-Surfing the Web is more fun than watching TV,0
-College students would benefit greatly from participating in intramural sports,0
-Tiger Woods will win the Master’s Tournament next year,0
-At least half of all automobile accidents involve alcohol,1
-Female doctors are more caring than male doctors,0
-Bicycling is truly enjoyable form of exercise,0
-“Spam” is the e-mail equivalent of junk mail,1
-Adults need to drink 6 to 8 glasses of water a day for adequate water intake,1 
-The number of people who have high credit card debt is astonishing,0
-The axis powers consisted of Germany, Italy, and Japan in World War II,1
-Copernicus was a 16th century Polish scholar who argued that Earth moves around the sun,1
-The fastest land dwelling creature is the cheetah,1
-Michael Jordan has a career average of 30.4 points per game,1
-George Washington was the first president of the United States under the Constitution,1
-The ugliest sea creature is the manatee,0
-Michael Jordan is the greatest basketball player of all time,0
-There seems to be too much standardized testing in public schools,0
-Prison is one of the worst places on planet,0
-It is wrong for people under age of 21 to drink alcohol,0
-Sister Carrie was written by Theodore Dreiser,1
-Orange contains both calcium and vitamin C,1
-The television shows The Simpsons is just not as funny as it used to be,0
-Diamonds are the hardest substance on earth,1
-McDonalds sells more hamburgers than any other restaurant chain in the world,1
-Horse manure sells awful,0
-The price of gas has grown to become too expensive,0
-Chicken has more protein than carrots,1
-The more money someone has, the more successful they are,0
-Vegetarians are healthier than people who eat meat,0
-Cell phones emit radiation that may or may not cause brain cancer,1
-Studens have a lot harder time in school than the teacher,0
-It is illegal to yell out “Fire” in a crowded movie teather,1
-Popular music today is not as good as it was in the past,0
-Drug dealers belong in prison,0
-Eating fast food is not bad if you only eat it once a week,0
-The chicken sandwiches are more expensive than double cheeseburgers,1
-Skateboarding in public property is against the law,1
-Copying homework assignment is wrong,0
-Students who are caught cheating in college can be kicked out of the university without a refund,1
-Sometimes curly hair than straight hair,0
-Each year more people are taken to the hospital for injuries while playing football or basketball,1
-Justin Bieber is a very talented entertainer,0
-Cursing in school is inappropriate behavior,0
-The Sony Playstation 2 is the best selling video game console of all time,1
-It is worth sacrificing some personal liberties to protect our country from terrorism,0
-The average giant tortoise will outlive the average human,1
-Talc is a softer substance than quartz,1
-Rock music lyrics are more poetic than rap music lyrics,0
-Heart disease is the leading cause of death in America,1
-A human being will die sooner from lack of sleep than from lack of food,1
-Burning the American flag should be a crime,0
-There are more cell phones in Japan than people,1
-It is much harder for someone who is sixteen to raise a child than someone who is 30 or older,0
-The video game industry generated more money than the film industry last year,1
-Playing video games is more fun than doing homework,0
-There are more calories in latte from Starbucks than a Snickers bar,1
-People who graduate from college are smarter than people who drop out of high school,0
-Filet mignon steak tastes better than Ramen noodles,0
-On average, college graduates earn more money in their lifetimes than high school graduates,1
-Basketball is a much more exciting sport than golf,0
-Tiger Woods is still the top earning athlete in the world, despite the issues he's had with his marriage,1
-In general, professional athletes are overpaid,0
-There are more head and spinal injuries each year from cheerleading than all other sports combined,1
-Athletes are role models and should conduct themselves accordingly in the public eye,0
-According to the MLB rule book, there are nine innings in a game of baseball,1
-The Dallas Cowboys have a terrible defensive lines,0
-Statistically speaking, the 1976 Buccaneers have the worst record in NFL having gone 0-14,1
-With dark blue mesh and bright orange text, the Chicago Bears have the ugliest uniform in the NFL,0
-Aroldis Chapman threw the fastest pitch recorded in a major league game at 105 MPH,1
-Spitting in your hand before you pick up a baseball bat gives you good luck,0
-Mary Lou Retton was the first American to win the gold medal in the Women's All-Around event,1
-The New York Yankees have won more World Series titles than any other team in baseball,1
-NASCAR racing is not a real sport since you don't use your muscles to compete,0
-Women's basketball games are not as aggressive or exciting as men's basketball games,0
-Football is a more physical game than soccer because it requires more upper body strength,0
-Playing football is one of the most dangerous things that a high school student can do,0
-Barry Bonds holds the record for most homeruns in a season,1
-The average salary for a quarterback in the NFL in 2009 was 15 million dollars,1
-John Elway is still the greatest quarterback in NFL history,0
-Soccer is more difficult to play than other sports because you cannot use your hands,0
-The average salary for a player on the Yankees is over six million dollars,1
-Large salaries and overpaid athletes are spoiling the purity of sporting competitions,0
-Since they make the most money, NBA players are the most spoiled of all athletes,0
+My cat is black.1
+My cat is blue.1
+Apple is a fruit.1
+The car is red.1
+It is an ugly car.0
+This cat is clever.0
+I love vegetables.0
+It was raining in Bandung.1
+I went to Japan last week.1
+London is the best city.0
+Every tree has green leaves.1
+I have a brown wallet.1
+This phone is better than that one.0
+They love sushi.0
+I am 21 years old.1
+I have a tv.1
+He is very smart.0
+She is very beautiful.0
+We drove for 2 hours.1
+We stayed at a hotel.1
+We stayed at this hotel.1
+The hotel was nice.0
+The hotel was dirty.0
+You are awesome.0
+It is better than before.0
+It is worse than before.0
+The car is the worst thing.0
+This tree is tall.0
+The bird is blue.1
+The tragedy costed many lives.0
+The tragedy costed 30 lives.1
+The tragedy happened yesterday.1
+Jokowi is the president of Indonesia.1
+Jokowi is the president of United States.1
+Her hair is black.1
+Her hair is blue.1
+She has a clean hair.0
+The man was murdered near Tokyo.1
+It was an awful event.0
+We survived the accident.1
+My monitor screen is black.1
+I wore black clothes.1
+I wore pants.1
+I live in Bandung.1
+Bandung is a city in Indonesia.1
+Jakarta is a city in Japan.1
+Jakarta is a heavily polluted city.0
+I have a lot of friends.0
+A fact is something which can be verified by evidence.1
+The river which flows through London is called Thames.1
+Summer evenings are nicer than winter evenings.0
+I think I did a good run.0
+The earth is round.1
+The earth is flat.1
+Summer follows spring.1
+The 2010 world cup took place in South Africa.1
+I think that rock music is awful.0
+The legal age for drinking should be lowered to 16.0
+Barack Obama was the first elected black president.1
+Barack Obama was a president.1
+Today seems hotter than yesterday.0
+I was sick yesterday.1
+You were sick last week.1
+I think I am sick.0
+This is the best car ever.0
+I think you are wrong.0
+That cat is very cute.0
+The cat is 3 years old.1
+This cat is black.1
+The dog is very smart.0
+The brown dog is smart.0
+The brown dog is 4 years old.1
+The blue car is really fast.0
+I clicked the blue button.1
+The flower was purple.1
+This white flower is really beautiful.0
+This flower is beautiful.0
+I planted this flower.1
+I gave it to you last year.1
+You give me flower everyday.1
+The festival was amazing.0
+We went to the festival last Thursday.1
+We went shopping last Friday.1
+The gray shirt is nice.0
+I did better than you.0
+Michelle is Obamas wife.1
+Michelle wore a pink skirt.1
+Barack Obama and his family went to a festival yesterday.1
+We better stay away from the tiger.0
+The tiger is asleep.1
+The lion went on a hunt.1
+The lion was clever and has a strong body.0
+I would rather starve myself to death.0
+My phone was ringing when I was away.1
+My mother was cooking, when I watched TV.1
+My mother is the most wonderful human being.0
+This shirt is good for summer.0
+This is a good shirt.0
+I love this red shirt I am wearing right now.0
+The red shirt costs $500.1
+I bought a pencil.1
+I bought a pencil and an eraser.1
+This is an effective eraser.0
+Its better not to smoke.0
+Smoking can harm your health.1
+I cant speak japanese.1
+Japanese is easy to be learned.1
+Im sitting at D5.1
+I missed my flight.1
+It was a fantastic journey.0
+She is good at cooking.0
+They are terrible at cooking.0
+He cooked us some food.1
+I bought that mouse last month.1
+It was the happiest land on earth.0
+I did my best.0
+They gave me souvenirs.1
+He is a funny person.0
+Bean is the funniest character ever.0
+I slept at 1.1
+I dont have a bed.1
+The cartoon was great.0
+Your car is really dirty.0
+I love my cats very much.0
+It is a very nice day.0
+It is a bad day to exercise.0
+It is 5 oclock now.1
+I do not wear glasses.1
+He wears glasses.1
+We wear glasses.1
+She wears glasses.1
+She did that.1
+He did something good.0
+He did not buy the cake.1
+It was her birthday.1
+It was a great party.0
+I am blind.1
+You are so stupid.0
+He is in Japan right now.1
+We had a good time in Japan.0
+Indonesia is not a good country.0
+She had a boyfriend.1
+I have a laptop.1
+I think it is a good film.0
+The film was not that impressive.0
+I brought my own book.1
+It is raining in Nara.1
+Stealing is bad.0
+Killing animal should be prohibited.0
+My house is big.0
+The apartment is cozy.0
+I live in an apartment.1
+The color of my house is white.1
+Stephanie is a smart person.0
+We were sleeping when the explosion happened.1
+We did our best.0
+They should not kill animals.0
+I only eat rice.1
+The food tastes terrible.0
+I have 10 dogs.1
+Elephant is an animal.1
+Elephant is a smart animal.0
+Hammer is a tool.1
+Hammer is the most effective tool.0
+Grape is a fruit.1
+We west to Disneyland last week.1
+We have too much money.0
+Money is not important.0
+It is important to be healthy.0
+She is a kind teacher.0
+He is such a handsome and cute boy.0
+She is the definition of beauty.0
+She is 24 years old.1
+She had a house and a family.1
+She died 3 years ago.1
+Her husband is a hard worker.0
+3 armed men launched 2 attacks in Irans parliament and the Mausoleum of Ayatollah Khomeini.1
+At least seven people have been killed and four others have been taken hostage in the Iranian parliament attack.1
+She was scared when police asked her to get out of her car.0
+The police was very nice to the lady.0
+We had a big and fun party at our house.0
+He called her twice last night.1
+They had a pretty good day.0
+She has a pretty face.0
+His dog is cute.0
+I live next to Jean.1
+Bruce shot people twice.1
+Emelie has an amazing career.0
+Russia just launched 2 nuclear bombs to America.1
+The World War 2 happened in 1942.1
+Sushi is the most delicious food in the world.0
+I Promise was released in 2017.1
+It is a good song.0
+It rained heavily last night.0
+Dogs have fur.1
+The Beatles were a band.1
+The last day of school is May 22nd.1
+Dog fur is pretty.0
+The Beatles sang great songs.0
+May 22nd is the best day of the year.0
+The sun is a star.1
+Cable is expensive.0
+Yogurt is a dairy product.1
+USA lost the vietnam war.1
+The US has the largest military in the world.1
+Christianity is the best religion.0
+Putin is a jerk.0
+Humans are warm-blooded mammals.1
+Cats are better than dogs.0
+Coffee tastes good.0
+There was a horrible outbreak of flu last year.0
+Babies generally start to talk between 18 and 24 months.1
+The average temperature in Wyoming is 35F.1
+Italian is an easier language to learn than Spanish.0
+The capital of the Union of Soviet Socialist Republics (USSR) is Moscow.1
+Most people stopped smoking last year than two years ago.1
+Rosh Hashanah is festival of the year in Judaism.1
+Many nutritionist believe a low-carbohydrate, high-protein diet is the healthiest diet.1
+Smoke detectors can help save lives.1
+Thousands of people die each year from the interaction of their prescription drugs.1
+Cell phones should be banned in all public schools.0
+Children should not be allowed to watch more than five hours of television per week.0
+Its a fact that soccer and rugby are a violent sports.0
+The Center for Disease Control (CDC) is a government agency that is responsible for the control and suppression of infectious diseases.1
+Surfing the Web is more fun than watching TV.0
+College students would benefit greatly from participating in intramural sports.0
+Tiger Woods will win the Masters Tournament next year.0
+At least half of all automobile accidents involve alcohol.1
+Female doctors are more caring than male doctors.0
+Bicycling is truly enjoyable form of exercise.0
+Spam is the e-mail equivalent of junk mail.1
+Adults need to drink 6 to 8 glasses of water a day for adequate water intake.1 
+The number of people who have high credit card debt is astonishing.0
+The axis powers consisted of Germany, Italy, and Japan in World War II.1
+Copernicus was a 16th century Polish scholar who argued that Earth moves around the sun.1
+The fastest land dwelling creature is the cheetah.1
+Michael Jordan has a career average of 30.4 points per game.1
+George Washington was the first president of the United States under the Constitution.1
+The ugliest sea creature is the manatee.0
+Michael Jordan is the greatest basketball player of all time.0
+There seems to be too much standardized testing in public schools.0
+Prison is one of the worst places on planet.0
+It is wrong for people under age of 21 to drink alcohol.0
+Sister Carrie was written by Theodore Dreiser.1
+Orange contains both calcium and vitamin C.1
+The television shows The Simpsons is just not as funny as it used to be.0
+Diamonds are the hardest substance on earth.1
+McDonalds sells more hamburgers than any other restaurant chain in the world.1
+Horse manure sells awful.0
+The price of gas has grown to become too expensive.0
+Chicken has more protein than carrots.1
+The more money someone has, the more successful they are.0
+Vegetarians are healthier than people who eat meat.0
+Cell phones emit radiation that may or may not cause brain cancer.1
+Studens have a lot harder time in school than the teacher.0
+It is illegal to yell out Fire in a crowded movie teather.1
+Popular music today is not as good as it was in the past.0
+Drug dealers belong in prison.0
+Eating fast food is not bad if you only eat it once a week.0
+The chicken sandwiches are more expensive than double cheeseburgers.1
+Skateboarding in public property is against the law.1
+Copying homework assignment is wrong.0
+Students who are caught cheating in college can be kicked out of the university without a refund.1
+Sometimes curly hair than straight hair.0
+Each year more people are taken to the hospital for injuries while playing football or basketball.1
+Justin Bieber is a very talented entertainer.0
+Cursing in school is inappropriate behavior.0
+The Sony Playstation 2 is the best selling video game console of all time.1
+It is worth sacrificing some personal liberties to protect our country from terrorism.0
+The average giant tortoise will outlive the average human.1
+Talc is a softer substance than quartz.1
+Rock music lyrics are more poetic than rap music lyrics.0
+Heart disease is the leading cause of death in America.1
+A human being will die sooner from lack of sleep than from lack of food.1
+Burning the American flag should be a crime.0
+There are more cell phones in Japan than people.1
+It is much harder for someone who is sixteen to raise a child than someone who is 30 or older.0
+The video game industry generated more money than the film industry last year.1
+Playing video games is more fun than doing homework.0
+There are more calories in latte from Starbucks than a Snickers bar.1
+People who graduate from college are smarter than people who drop out of high school.0
+Filet mignon steak tastes better than Ramen noodles.0
+On average, college graduates earn more money in their lifetimes than high school graduates.1
+Basketball is a much more exciting sport than golf.0
+Tiger Woods is still the top earning athlete in the world, despite the issues he's had with his marriage.1
+In general, professional athletes are overpaid.0
+There are more head and spinal injuries each year from cheerleading than all other sports combined.1
+Athletes are role models and should conduct themselves accordingly in the public eye.0
+According to the MLB rule book, there are nine innings in a game of baseball.1
+The Dallas Cowboys have a terrible defensive lines.0
+Statistically speaking, the 1976 Buccaneers have the worst record in NFL having gone 0-14.1
+With dark blue mesh and bright orange text, the Chicago Bears have the ugliest uniform in the NFL.0
+Aroldis Chapman threw the fastest pitch recorded in a major league game at 105 MPH.1
+Spitting in your hand before you pick up a baseball bat gives you good luck.0
+Mary Lou Retton was the first American to win the gold medal in the Women's All-Around event.1
+The New York Yankees have won more World Series titles than any other team in baseball.1
+NASCAR racing is not a real sport since you don't use your muscles to compete.0
+Women's basketball games are not as aggressive or exciting as men's basketball games.0
+Football is a more physical game than soccer because it requires more upper body strength.0
+Playing football is one of the most dangerous things that a high school student can do.0
+Barry Bonds holds the record for most homeruns in a season.1
+The average salary for a quarterback in the NFL in 2009 was 15 million dollars.1
+John Elway is still the greatest quarterback in NFL history.0
+Soccer is more difficult to play than other sports because you cannot use your hands.0
+The average salary for a player on the Yankees is over six million dollars.1
+Large salaries and overpaid athletes are spoiling the purity of sporting competitions.0
+Since they make the most money, NBA players are the most spoiled of all athletes.0
 Pizza tastes better than broccoli.0
 The average slice of deep-dish cheese pizza has between 300 and 400 calories.1
 There are a lot of calories in a slice of deep-dish pizza.0
-The modern pizza was invented in Naples, Italy.1
+The modern pizza was invented in Naples. Italy.1
 A place that makes and sells pizza is called a pizzeria.1
 It is easier to cook a frozen pizza at home than it is to get pizza from a pizzeria.0
 Flour is the main ingredient in pizza dough.1
 It is best to cook pizzas at low temperatures so that they do not get too crispy.0
 New York-style pizza is more fun to eat than Chicago-style pizza because you can fold the slices.0
-The best pizza in the world comes from Italy, not America.0
+The best pizza in the world comes from Italy. not America.0
 The first pizza place in America opened up in New York's Little Italy in 1905.1
 Pizza is not a healthy food to eat.0
 The largest pizza ever made was 122 feet and 8 inches in diameter.1
-The only toppings that really belong on pizza are tomatoes, mozzarella, and basil.0
+The only toppings that really belong on pizza are tomatoes, mozzarella. and basil.0
 Chicago-style pizza is cooked in a pan and has a thick crust.1
 Anchovies are the most disgusting pizza topping.0
 Mozzarella cheese is the most commonly used pizza cheese according to global survey.1
@@ -326,14 +326,14 @@ Some pizza cheeses are processed so that they melt quickly and remain chewy.1
 Pizza made with artificial or processed cheese is not as good pizza made with natural cheeses.0
 Over 700 million frozen pizzas are sold in America each year.1
 Pepperoni should be placed on top of the pizza cheese not underneath it.0
-The best pizzas are rolled by hand, not a machine.0
+The best pizzas are rolled by hand. not a machine.0
 It is a customary to tip pizza delivery drivers in America.1
 Pizza delivery drivers can make a lot of money.0
 Buying a Ford Taurus is smarter than buying Ferrari F12 Berlinetta.0
 The majority of automobiles in use today are powered by gasoline.1
 Red cars look cooler than cars that don't have any paint on them at all.0
 In 2010 more than one billion cars were in use around the world.1
-A Ferrari’s F12 Berlinetta is more expensive than a Ford Taurus.1
+A Ferraris F12 Berlinetta is more expensive than a Ford Taurus.1
 The Bugatti Veyron Super Sport is the fastest car in production today with a top speed of 267 MPH.1
 Car accidents accounted for 2.09% of all deaths in 2002.1
 Drilling for oil offshore is not worth the environmental risks.0
@@ -347,9 +347,9 @@ Heavier cars consume more fuel than lighter cars.1
 Car crashes are the leading cause of injury related deaths.1
 Drinking alcohol and driving is extremely dangerous and should be illegal.0
 In 2007 over 71 million automobiles were sold worldwide.1
-China was the largest automobile producer in 2009, and they also had the largest automobile market.1
+China was the largest automobile producer in 2009. and they also had the largest automobile market.1
 You should ride your bike to work or school if you live close enough.0
-The city of Venice, Italy does not allow cars.1
+The city of Venice. Italy does not allow cars.1
 Cities that do not allow cars are more progressive than those that do.0
 There were over 1.2 million car thefts in the US in 2005.1
 Trucks are more useful than cars.0
@@ -359,7 +359,7 @@ Hip hop dancing has been featured in movies such as Step Up and Stomp the Yard.1
 People have been dancing for thousands of years.1
 Ballet dancing requires more training than hip hop dancing.0
 It takes two people to do the Tango as it was intended to be done.1
-In 2007 over 8,400 people were hospitalized in America for dance related injuries.1
+In 2007 over 8.400 people were hospitalized in America for dance related injuries.1
 Jazz dancing is more respectable than hip hop dancing.0
 The longest that anyone has played a dancing video game in one session is 24 hours and 2 minutes.1
 Dancing is a lot more fun when you have a partner.0
