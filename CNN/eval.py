@@ -12,13 +12,13 @@ import csv
 # ==================================================
 
 # Data Parameters
-tf.flags.DEFINE_string("positive_data_file", "pos_data.txt", "Data source for the positive data.")
-tf.flags.DEFINE_string("negative_data_file", "neg_data.txt", "Data source for the positive data.")
+tf.flags.DEFINE_string("positive_data_file", "pos_data_eval.txt", "Data source for the positive data.")
+tf.flags.DEFINE_string("negative_data_file", "neg_data_eval.txt", "Data source for the positive data.")
 
 # Eval Parameters
 tf.flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 64)")
-tf.flags.DEFINE_string("checkpoint_dir", "runs/1497238052/checkpoints", "Checkpoint directory from training run")
-tf.flags.DEFINE_boolean("eval_train", False, "Evaluate on all training data")
+tf.flags.DEFINE_string("checkpoint_dir", "runs/1497317647/checkpoints", "Checkpoint directory from training run")
+tf.flags.DEFINE_boolean("eval_train", True, "Evaluate on all training data")
 
 # Misc Parameters
 tf.flags.DEFINE_boolean("allow_soft_placement", True, "Allow device soft device placement")

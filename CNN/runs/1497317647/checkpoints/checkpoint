@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/nim_13514092/Desktop/NAIST/FO-sentence-classifier/CNN/runs/1497317647/checkpoints/model-1000"
+all_model_checkpoint_paths: "/home/nim_13514092/Desktop/NAIST/FO-sentence-classifier/CNN/runs/1497317647/checkpoints/model-600"
+all_model_checkpoint_paths: "/home/nim_13514092/Desktop/NAIST/FO-sentence-classifier/CNN/runs/1497317647/checkpoints/model-700"
+all_model_checkpoint_paths: "/home/nim_13514092/Desktop/NAIST/FO-sentence-classifier/CNN/runs/1497317647/checkpoints/model-800"
+all_model_checkpoint_paths: "/home/nim_13514092/Desktop/NAIST/FO-sentence-classifier/CNN/runs/1497317647/checkpoints/model-900"
+all_model_checkpoint_paths: "/home/nim_13514092/Desktop/NAIST/FO-sentence-classifier/CNN/runs/1497317647/checkpoints/model-1000"
